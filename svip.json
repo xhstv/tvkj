@@ -24,7 +24,18 @@
             "timeout": 30,
             "changeable": 0
         },
-
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🇹┃藤藤解析┃4K",
+      "type": 3,
+      "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
+    },
     {
       "key": "农民影视",
       "name": "🇹┃理想影视┃秒播",
