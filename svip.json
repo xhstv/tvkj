@@ -179,7 +179,7 @@
       "name": "🇹┃玩偶哥哥┃4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./lib/fty.jar",
+      "jar": "https://gitee.com/tvkeji/jar/raw/master/CK/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
