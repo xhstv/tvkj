@@ -191,6 +191,7 @@
         "danMu": "弹"
       }
     },
+    {"key":"抠搜","name":"🇹┃扣扣搜搜┃4K","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
         {
       "key": "hipy_js_4K-AV",
