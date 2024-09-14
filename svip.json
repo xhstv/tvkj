@@ -8,7 +8,7 @@
 
 {"key": "豆瓣推荐","name": "豆瓣推荐｜公众号：天微科技","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"配置中心","name":"🇹┃云盘设置┃全盘","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "./lib/dm.jar"},
+{"key":"配置中心","name":"🇹┃网盘设置┃全盘","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "./lib/dm.jar"},
 
 {"key":"Alist","name":"🇹┃小雅网盘┃大全","type":3,"api":"csp_AList",    "parse_url": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./lib/小雅.json"},
         {
