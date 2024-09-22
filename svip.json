@@ -87,7 +87,6 @@
 
     {"key":"荐片","name":"🇹┃荐片官源┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/jianpian.js"},
     
-    {"key":"热播","name":"🇹┃热播多线┃秒播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 
 {"key":"追剧","name":"🇹┃追剧天天┃秒播","type":3,"api":"csp_AppTT","playerType":2,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 
