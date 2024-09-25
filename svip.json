@@ -373,9 +373,11 @@
 
 {"key":"Bili","name":"🅱️哔哩合集","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./lib/bilibili.json"},
 
-{"key": "星芽短剧","name": "🌟星芽┃短剧","type": 3,"api": "csp_AppXY","jar": "./lib/ou.jar","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key": "星芽短剧","name": "🎦星芽┃短剧","type": 3,"api": "csp_AppXY","jar": "./lib/ou.jar","searchable": 1,"quickSearch": 0,"filterable": 0},
 
 {"key": "js_蓝莓短剧","name": "🎦蓝莓┃短剧","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蓝莓短剧.js"},
+
+{"key":"无忧短剧","name":"🎦无忧┃短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./lib/dm.jar"},
 
 {"key": "csp_XYQHiker_爱你短剧","name":"🎦爱你┃短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱你短剧.json"},
 {"key": "csp_XYQHiker_河马短剧","name":"🎦河马┃短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/河马短剧.json"},
