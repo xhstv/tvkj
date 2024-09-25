@@ -85,7 +85,7 @@
     {"key":"文采","name":"🇹┃文采官源┃秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/tvkeji/jar/raw/master/CK/ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"荐片","name":"🇹┃荐片官源┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/jianpian.js"},
-{"key":"搜狗","name":"🇹┃嗖狗官源┃秒播","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/搜狗.js"},
+{"key":"搜狗","name":"🇹┃嗖狗官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
 {"key":"360影视","name":"🇹┃三六零官┃秒播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"芒果","name":"🇹┃盲果官源┃秒播","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/芒果.js"},
 {"key":"爱奇异","name":"🇹┃爱其意官┃秒播","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/爱奇艺.js"},
