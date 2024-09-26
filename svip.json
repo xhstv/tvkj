@@ -339,8 +339,7 @@
 
 {"key":"酷奇","name":"🎤酷奇MTV","type": 3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
 
-{"key": "MTV","name": "🎧音乐┃MV","type": 3,"jar": "./lib/fty.jar","api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,
-"changeable": 0,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
+{"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/MTV.json"},
 
 {"key":"88js","name":"⚽体育┃八八看球","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/88看球.js","style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0},
 
