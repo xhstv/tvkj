@@ -2,7 +2,7 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "logo": "https://qixing.myhkw.com/tw.jpg",
  "lives": [
-{"name": "live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
+{"name": "live","type": 0,"url": "https://ghp.ci/raw.githubusercontent.com/awake000/ak/refs/heads/main/log.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
 "sites":[
 
