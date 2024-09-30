@@ -34,6 +34,17 @@
       "changeable": 0,
       "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
     },
+        {
+      "key": "csp_JPYY",
+      "name": "🇹┃金牌影视┃秒播",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
     {
       "key": "农民影视",
       "name": "🇹┃理想影视┃秒播",
