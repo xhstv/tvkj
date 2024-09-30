@@ -38,6 +38,7 @@
       "key": "csp_JPYY",
       "name": "🇹┃金牌影视┃秒播",
       "type": 3,
+      "jar": "./lib/xm.jar",
       "searchable": 1,
       "changeable": 1,
       "api": "csp_Jpyy",
