@@ -1,7 +1,7 @@
 {"spider": "./lib/tvkj.jar",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
  "lives": [
-{"name": "live","type": 0,"url": "https://framagit.org/nydbbd/xhs/-/raw/main/live/IPV4.txt","epg": "https://framagit.org/nydbbd/xhs/-/raw/main/live/logo/{name}.png"}],
+{"name": "live","type": 0,"url": "https://framagit.org/nydbbd/xhs/-/raw/main/live/IPV4.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://framagit.org/nydbbd/xhs/-/raw/main/live/logo/{name}.png"}],
 
 "sites":[
 
