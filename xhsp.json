@@ -6,7 +6,7 @@
 
 "sites":[
 
-{"key": "lfjs_番茄","name": "🍟影片库｜属性分类","type": 3,"api": "./xbl/lf_search3_min.js","searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0},  
+{"key": "lfjs_番茄","name": "🍟影片库｜属性分类","type": 3,"api": "./js/lf_search3_min.js","searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0},  
 
 {"key": "豆瓣推荐","name": "豆瓣推荐｜公众号：天微科技 祝大家国庆快乐！","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
